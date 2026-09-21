@@ -1,2 +1,13 @@
 # legislation-search-api-andros
-APIRest Destinada a consulta de legislação migratória em Java.
+REST API for querying and organizing brazilian migratory legislation.
+
+## Status
+
+🚧 Early development
+
+## Goals
+
+- Search legislation
+- Filter legislation
+- Organize legislative data
+- Provide a RESTful API
